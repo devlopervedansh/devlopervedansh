@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from India with expertise in HTML, CSS, and JavaScript.</h3>
 
 <p align="center">
-  <img src="logo.png" alt="Developer Vedansh Logo" height="400" align="right">
+  <img src="logo.png" alt="Developer Vedansh Logo" height="200" align="right">
   <br>
-  <img src="light-yagami-death-note-crazy-laughing-5tmfcfouls6uccqt.webp" alt="Gojo Satoru GIF" height="200" align="right">
+  <img src="light-yagami-death-note-crazy-laughing-5tmfcfouls6uccqt.webp" alt="Gojo Satoru GIF" height="100" align="right">
 </p>
 
 - 🔭 I’m currently working on **different projects**
@@ -59,6 +59,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developervedansh&show_icons=true&locale=en&layout=compact" alt="developervedansh" />
-</p>
