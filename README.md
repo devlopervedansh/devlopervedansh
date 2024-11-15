@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devlopervedansh
-- 👀 I’m interested in ... coding HTML Projects
+- 👀 I’m  in ... coding HTML Projects
 - 🌱 I’m currently learning ... HTML
 - 📫 How to reach me ... ON MY Respositories
 
