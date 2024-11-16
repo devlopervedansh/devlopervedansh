@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, It's Developer Vedansh</h1>
-<h3 align="center">A passionate frontend developer from India with expertise in HTML, CSS, and JavaScript.</h3>
+<h3 align="center">A passionate frontend developer from India with expertise in HTML, CSS, JavaScript, Python and Tailwind CSS.</h3>
 
 <p align="center">
   <img src="logo.png" alt="Developer Vedansh Logo" height="200" align="right">
