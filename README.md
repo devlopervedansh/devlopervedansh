@@ -26,7 +26,7 @@
 ### Connect with me:
 <p align="left">
 <a href="https://dev.to/devlopervedansh.netlfiy.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devlopervedansh.netlfiy.app" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devlopervedansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devlopervedansh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/developervedansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devlopervedansh" height="30" width="40" /></a>
 <a href="https://instagram.com/kingvedansh_2477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kingvedansh_2477" height="30" width="40" /></a>
 </p>
 
